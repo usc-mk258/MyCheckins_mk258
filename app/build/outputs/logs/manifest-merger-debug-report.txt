@@ -1,0 +1,298 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Suffyan Khan\AndroidStudioProjects\task2\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\Suffyan Khan\AndroidStudioProjects\task2\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\Suffyan Khan\AndroidStudioProjects\task2\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\Suffyan Khan\AndroidStudioProjects\task2\app\src\main\AndroidManifest.xml:2:1-41:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\bf114da7f54f42d4817abffde8b78f76\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\4cb6ab8a492de48bec65467b8822ea0c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\b52bf2688690081f281936f5e558e181\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\0f6779b9c626ae10859fe15ab39f9401\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\4f614c35f83bc3e765a8c52aadaa85fa\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\a225ca1be24e5faa6a29e5b843672b10\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\a17ece87c9a8eccee66ae555f53cd709\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\762fcd6e0de2e52f4366530ad3189a4b\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\4a323b2e8a4413717a1cfd70db3570d9\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\83d6d4076d55448b0c06277705af8ba9\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\7c08dd9f8d4bacc81d6c6b5cdb5d676a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\787631e0627059b4ed7972511d702c51\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\d036aa1a99c6c95f441c19bfd0c0a9ec\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\ec4d0a354bca6a92a8604656b0fbfbbc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\bf33468580fad7133e4891ac7d5e9d0d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\9eaa735b056a924877fb188da2b8aa9f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\1917801606fa91aed308f99497de9b64\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\55d5b8466f19412d122807801e8d1b67\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\670189acece54ce4a909accfa7e1a567\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\0b895de1b40a83453114ee940724b8ef\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\64e6c03d2e4af39686ad1d9ecc7851ae\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\dfd85e465e51a6d77202e78bc0ed748e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\359d79a983a3632beaa24816d16ba739\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\ec04826e7491f16053718774033512cb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\fe0b001c4029e091e114165405e69ce6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\f858343ae97d14a03140ff3d7c85ea31\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\bde2727c6b5a4b6205eec16c0b27e9be\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\aed89f05dfab9927f95eabdd1ff5a4d2\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\b3859f167c9e85cccd5b2ae0c4c9080d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\fd3c9abffc426880e2c50c36a2c82d6f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\c63ca479776705cd1bc910d8990ce12b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\1072f9bb2935ab3b08a69af945831ba6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\675d8395216ff7ef0a1da9a8b446047b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\e0f277d438bc33fd7ee3f90d9046d7e2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\1b43c51982d237b626b7d6dc2f830524\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\292668bab6d5c17f24612400d16cd88a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\1dcc9775c02fac29e6f98438f79ba1a7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\b752bacc8e2dfce4541906fb05b0e619\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\36103784f8a70e86db8878047c9c48ca\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Suffyan Khan\AndroidStudioProjects\task2\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\Suffyan Khan\AndroidStudioProjects\task2\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\Suffyan Khan\AndroidStudioProjects\task2\app\src\main\AndroidManifest.xml:2:1-41:12
+	package
+		ADDED from C:\Users\Suffyan Khan\AndroidStudioProjects\task2\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from C:\Users\Suffyan Khan\AndroidStudioProjects\task2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Suffyan Khan\AndroidStudioProjects\task2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Suffyan Khan\AndroidStudioProjects\task2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Suffyan Khan\AndroidStudioProjects\task2\app\src\main\AndroidManifest.xml:2:1-41:12
+		INJECTED from C:\Users\Suffyan Khan\AndroidStudioProjects\task2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Suffyan Khan\AndroidStudioProjects\task2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Suffyan Khan\AndroidStudioProjects\task2\app\src\main\AndroidManifest.xml:2:1-41:12
+		INJECTED from C:\Users\Suffyan Khan\AndroidStudioProjects\task2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Suffyan Khan\AndroidStudioProjects\task2\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Suffyan Khan\AndroidStudioProjects\task2\app\src\main\AndroidManifest.xml:6:5-8:38
+	android:maxSdkVersion
+		ADDED from C:\Users\Suffyan Khan\AndroidStudioProjects\task2\app\src\main\AndroidManifest.xml:8:9-35
+	android:name
+		ADDED from C:\Users\Suffyan Khan\AndroidStudioProjects\task2\app\src\main\AndroidManifest.xml:7:9-65
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Suffyan Khan\AndroidStudioProjects\task2\app\src\main\AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from C:\Users\Suffyan Khan\AndroidStudioProjects\task2\app\src\main\AndroidManifest.xml:9:22-62
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Suffyan Khan\AndroidStudioProjects\task2\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from C:\Users\Suffyan Khan\AndroidStudioProjects\task2\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Suffyan Khan\AndroidStudioProjects\task2\app\src\main\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\4f614c35f83bc3e765a8c52aadaa85fa\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\4f614c35f83bc3e765a8c52aadaa85fa\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from C:\Users\Suffyan Khan\AndroidStudioProjects\task2\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Suffyan Khan\AndroidStudioProjects\task2\app\src\main\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from C:\Users\Suffyan Khan\AndroidStudioProjects\task2\app\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Suffyan Khan\AndroidStudioProjects\task2\app\src\main\AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from C:\Users\Suffyan Khan\AndroidStudioProjects\task2\app\src\main\AndroidManifest.xml:13:22-77
+application
+ADDED from C:\Users\Suffyan Khan\AndroidStudioProjects\task2\app\src\main\AndroidManifest.xml:14:5-39:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\bf114da7f54f42d4817abffde8b78f76\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\bf114da7f54f42d4817abffde8b78f76\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\b52bf2688690081f281936f5e558e181\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\b52bf2688690081f281936f5e558e181\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\0f6779b9c626ae10859fe15ab39f9401\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\0f6779b9c626ae10859fe15ab39f9401\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\4f614c35f83bc3e765a8c52aadaa85fa\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\4f614c35f83bc3e765a8c52aadaa85fa\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\a225ca1be24e5faa6a29e5b843672b10\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\a225ca1be24e5faa6a29e5b843672b10\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\a17ece87c9a8eccee66ae555f53cd709\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\a17ece87c9a8eccee66ae555f53cd709\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\762fcd6e0de2e52f4366530ad3189a4b\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\762fcd6e0de2e52f4366530ad3189a4b\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\4a323b2e8a4413717a1cfd70db3570d9\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\4a323b2e8a4413717a1cfd70db3570d9\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\83d6d4076d55448b0c06277705af8ba9\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\83d6d4076d55448b0c06277705af8ba9\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\f858343ae97d14a03140ff3d7c85ea31\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\f858343ae97d14a03140ff3d7c85ea31\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\bde2727c6b5a4b6205eec16c0b27e9be\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\bde2727c6b5a4b6205eec16c0b27e9be\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\aed89f05dfab9927f95eabdd1ff5a4d2\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\aed89f05dfab9927f95eabdd1ff5a4d2\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\bde2727c6b5a4b6205eec16c0b27e9be\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Suffyan Khan\AndroidStudioProjects\task2\app\src\main\AndroidManifest.xml:19:9-35
+	android:label
+		ADDED from C:\Users\Suffyan Khan\AndroidStudioProjects\task2\app\src\main\AndroidManifest.xml:17:9-41
+	android:roundIcon
+		ADDED from C:\Users\Suffyan Khan\AndroidStudioProjects\task2\app\src\main\AndroidManifest.xml:18:9-54
+	android:icon
+		ADDED from C:\Users\Suffyan Khan\AndroidStudioProjects\task2\app\src\main\AndroidManifest.xml:16:9-43
+	android:allowBackup
+		ADDED from C:\Users\Suffyan Khan\AndroidStudioProjects\task2\app\src\main\AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from C:\Users\Suffyan Khan\AndroidStudioProjects\task2\app\src\main\AndroidManifest.xml:20:9-40
+activity#com.ucs.task2.myapplication.HelpActivity
+ADDED from C:\Users\Suffyan Khan\AndroidStudioProjects\task2\app\src\main\AndroidManifest.xml:21:9-59
+	android:name
+		ADDED from C:\Users\Suffyan Khan\AndroidStudioProjects\task2\app\src\main\AndroidManifest.xml:21:19-47
+activity#com.ucs.task2.myapplication.MapActivity
+ADDED from C:\Users\Suffyan Khan\AndroidStudioProjects\task2\app\src\main\AndroidManifest.xml:22:9-49
+	android:name
+		ADDED from C:\Users\Suffyan Khan\AndroidStudioProjects\task2\app\src\main\AndroidManifest.xml:22:19-46
+activity#com.ucs.task2.myapplication.ItemActivity
+ADDED from C:\Users\Suffyan Khan\AndroidStudioProjects\task2\app\src\main\AndroidManifest.xml:23:9-50
+	android:name
+		ADDED from C:\Users\Suffyan Khan\AndroidStudioProjects\task2\app\src\main\AndroidManifest.xml:23:19-47
+activity#com.ucs.task2.myapplication.MainActivity
+ADDED from C:\Users\Suffyan Khan\AndroidStudioProjects\task2\app\src\main\AndroidManifest.xml:24:9-33:20
+	android:label
+		ADDED from C:\Users\Suffyan Khan\AndroidStudioProjects\task2\app\src\main\AndroidManifest.xml:26:13-45
+	android:theme
+		ADDED from C:\Users\Suffyan Khan\AndroidStudioProjects\task2\app\src\main\AndroidManifest.xml:27:13-56
+	android:name
+		ADDED from C:\Users\Suffyan Khan\AndroidStudioProjects\task2\app\src\main\AndroidManifest.xml:25:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Suffyan Khan\AndroidStudioProjects\task2\app\src\main\AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Suffyan Khan\AndroidStudioProjects\task2\app\src\main\AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from C:\Users\Suffyan Khan\AndroidStudioProjects\task2\app\src\main\AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Suffyan Khan\AndroidStudioProjects\task2\app\src\main\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from C:\Users\Suffyan Khan\AndroidStudioProjects\task2\app\src\main\AndroidManifest.xml:31:27-74
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\Suffyan Khan\AndroidStudioProjects\task2\app\src\main\AndroidManifest.xml:35:9-37:55
+	android:value
+		ADDED from C:\Users\Suffyan Khan\AndroidStudioProjects\task2\app\src\main\AndroidManifest.xml:37:13-52
+	android:name
+		ADDED from C:\Users\Suffyan Khan\AndroidStudioProjects\task2\app\src\main\AndroidManifest.xml:36:13-58
+uses-library#org.apache.http.legacy
+ADDED from C:\Users\Suffyan Khan\AndroidStudioProjects\task2\app\src\main\AndroidManifest.xml:38:9-87
+	android:required
+		ADDED from C:\Users\Suffyan Khan\AndroidStudioProjects\task2\app\src\main\AndroidManifest.xml:38:61-85
+	android:name
+		ADDED from C:\Users\Suffyan Khan\AndroidStudioProjects\task2\app\src\main\AndroidManifest.xml:38:23-60
+uses-sdk
+INJECTED from C:\Users\Suffyan Khan\AndroidStudioProjects\task2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Suffyan Khan\AndroidStudioProjects\task2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Suffyan Khan\AndroidStudioProjects\task2\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\bf114da7f54f42d4817abffde8b78f76\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\bf114da7f54f42d4817abffde8b78f76\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\4cb6ab8a492de48bec65467b8822ea0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\4cb6ab8a492de48bec65467b8822ea0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\b52bf2688690081f281936f5e558e181\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\b52bf2688690081f281936f5e558e181\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\0f6779b9c626ae10859fe15ab39f9401\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\0f6779b9c626ae10859fe15ab39f9401\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\4f614c35f83bc3e765a8c52aadaa85fa\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\4f614c35f83bc3e765a8c52aadaa85fa\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\a225ca1be24e5faa6a29e5b843672b10\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\a225ca1be24e5faa6a29e5b843672b10\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\a17ece87c9a8eccee66ae555f53cd709\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\a17ece87c9a8eccee66ae555f53cd709\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\762fcd6e0de2e52f4366530ad3189a4b\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\762fcd6e0de2e52f4366530ad3189a4b\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\4a323b2e8a4413717a1cfd70db3570d9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\4a323b2e8a4413717a1cfd70db3570d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\83d6d4076d55448b0c06277705af8ba9\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\83d6d4076d55448b0c06277705af8ba9\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\7c08dd9f8d4bacc81d6c6b5cdb5d676a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\7c08dd9f8d4bacc81d6c6b5cdb5d676a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\787631e0627059b4ed7972511d702c51\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\787631e0627059b4ed7972511d702c51\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\d036aa1a99c6c95f441c19bfd0c0a9ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\d036aa1a99c6c95f441c19bfd0c0a9ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\ec4d0a354bca6a92a8604656b0fbfbbc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\ec4d0a354bca6a92a8604656b0fbfbbc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\bf33468580fad7133e4891ac7d5e9d0d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\bf33468580fad7133e4891ac7d5e9d0d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\9eaa735b056a924877fb188da2b8aa9f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\9eaa735b056a924877fb188da2b8aa9f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\1917801606fa91aed308f99497de9b64\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\1917801606fa91aed308f99497de9b64\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\55d5b8466f19412d122807801e8d1b67\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\55d5b8466f19412d122807801e8d1b67\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\670189acece54ce4a909accfa7e1a567\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\670189acece54ce4a909accfa7e1a567\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\0b895de1b40a83453114ee940724b8ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\0b895de1b40a83453114ee940724b8ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\64e6c03d2e4af39686ad1d9ecc7851ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\64e6c03d2e4af39686ad1d9ecc7851ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\dfd85e465e51a6d77202e78bc0ed748e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\dfd85e465e51a6d77202e78bc0ed748e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\359d79a983a3632beaa24816d16ba739\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\359d79a983a3632beaa24816d16ba739\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\ec04826e7491f16053718774033512cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\ec04826e7491f16053718774033512cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\fe0b001c4029e091e114165405e69ce6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\fe0b001c4029e091e114165405e69ce6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\f858343ae97d14a03140ff3d7c85ea31\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\f858343ae97d14a03140ff3d7c85ea31\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\bde2727c6b5a4b6205eec16c0b27e9be\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\bde2727c6b5a4b6205eec16c0b27e9be\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\aed89f05dfab9927f95eabdd1ff5a4d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\aed89f05dfab9927f95eabdd1ff5a4d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\b3859f167c9e85cccd5b2ae0c4c9080d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\b3859f167c9e85cccd5b2ae0c4c9080d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\fd3c9abffc426880e2c50c36a2c82d6f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\fd3c9abffc426880e2c50c36a2c82d6f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\c63ca479776705cd1bc910d8990ce12b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\c63ca479776705cd1bc910d8990ce12b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\1072f9bb2935ab3b08a69af945831ba6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\1072f9bb2935ab3b08a69af945831ba6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\675d8395216ff7ef0a1da9a8b446047b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\675d8395216ff7ef0a1da9a8b446047b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\e0f277d438bc33fd7ee3f90d9046d7e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\e0f277d438bc33fd7ee3f90d9046d7e2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\1b43c51982d237b626b7d6dc2f830524\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\1b43c51982d237b626b7d6dc2f830524\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\292668bab6d5c17f24612400d16cd88a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\292668bab6d5c17f24612400d16cd88a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\1dcc9775c02fac29e6f98438f79ba1a7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\1dcc9775c02fac29e6f98438f79ba1a7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\b752bacc8e2dfce4541906fb05b0e619\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\b752bacc8e2dfce4541906fb05b0e619\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\36103784f8a70e86db8878047c9c48ca\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\36103784f8a70e86db8878047c9c48ca\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Suffyan Khan\AndroidStudioProjects\task2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Suffyan Khan\AndroidStudioProjects\task2\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\83d6d4076d55448b0c06277705af8ba9\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from C:\Users\Suffyan Khan\AndroidStudioProjects\task2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Suffyan Khan\AndroidStudioProjects\task2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Suffyan Khan\AndroidStudioProjects\task2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Suffyan Khan\AndroidStudioProjects\task2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Suffyan Khan\AndroidStudioProjects\task2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Suffyan Khan\AndroidStudioProjects\task2\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\4f614c35f83bc3e765a8c52aadaa85fa\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\4f614c35f83bc3e765a8c52aadaa85fa\AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\4f614c35f83bc3e765a8c52aadaa85fa\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\4f614c35f83bc3e765a8c52aadaa85fa\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\4f614c35f83bc3e765a8c52aadaa85fa\AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\a225ca1be24e5faa6a29e5b843672b10\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\a225ca1be24e5faa6a29e5b843672b10\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\a225ca1be24e5faa6a29e5b843672b10\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\a225ca1be24e5faa6a29e5b843672b10\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\4a323b2e8a4413717a1cfd70db3570d9\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\4a323b2e8a4413717a1cfd70db3570d9\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\4a323b2e8a4413717a1cfd70db3570d9\AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\83d6d4076d55448b0c06277705af8ba9\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\f858343ae97d14a03140ff3d7c85ea31\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\f858343ae97d14a03140ff3d7c85ea31\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\83d6d4076d55448b0c06277705af8ba9\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Suffyan Khan\.gradle\caches\transforms-2\files-2.1\83d6d4076d55448b0c06277705af8ba9\AndroidManifest.xml:27:13-51

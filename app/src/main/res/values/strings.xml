@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyCheckins</string>
+    <string name="action_new">New</string>
+    <string name="action_help">Help</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyAWcdyjU40gaJAhSQ5q7UzrWBrcgeWMO2I</string>
+    <string name="title">Title</string>
+    <string name="place">Place</string>
+    <string name="detail">Detail</string>
+    <string name="location">location</string>
+    <string name="show_map">Show Map</string>
+    <string name="click_pic">click Pic</string>
+    <string name="share">Share</string>
+    <string name="delete">delete</string>
+    <string name="save">Save</string>
+</resources>

@@ -1,0 +1,4 @@
+#Mon Sep 16 12:43:52 PKT 2019
+base.0=D\:\\alizohair\\task2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\7
+path.0=classes.dex
+renamed.0=classes.dex
